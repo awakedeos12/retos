@@ -1,0 +1,29 @@
+body{
+	font-family: "Helvetica", sans-serif;
+	font-size: 16px;
+}
+
+nav{
+	background-color: whitesmoke;
+	border-bottom: 5px;
+	border-color: #DDDDDD;
+	margin-bottom: 40px;
+	padding: 10px 2px 10px 2px;
+}
+
+.junior a{
+	 text-decoration: none;
+}
+
+.junior span{
+	display: inline-block;
+	text-align: center;	
+	padding: 1.5em 0.5em;	
+	margin: 10px 50px 15px 20px;
+    height: 280px;
+    width: 220px;
+	line-height: 1.6;
+	box-sizing: border-box;
+	box-shadow: 0 0 2px #727176;
+	background-color: whitesmoke;
+	}
